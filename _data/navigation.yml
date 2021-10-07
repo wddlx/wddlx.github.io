@@ -2,10 +2,10 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
+- title: Researches
+   url: /researches/
+- title: CV
+   url: /cv/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes
