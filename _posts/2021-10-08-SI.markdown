@@ -3,6 +3,7 @@ layout: post
 title:  "About me"
 date:   2021-10-08 9:21:03 +0800
 categories: Self-introduction
+permalink: /
 ---
 
 My name is Chengyan Xie(谢承炎), a forth-year student major in astronomy in [Xiamen University].
