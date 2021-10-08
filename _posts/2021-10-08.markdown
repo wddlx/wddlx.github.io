@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "About me"
+date:   2021-10-08 9:21:03 +0800
+categories: Self-introduction
+---
+
+My name is Chengyan Xie(谢承炎), a forth-year student major in astronomy in [Xiamen University].
+
+My primary interest is in exoplanet detection and properties, especially protoplanetary disks and planetary atomsphere. I'm also interested in galaxy formation and evolution, and other astronomical fields as well.
+
+Currently, I'm analyzing spiral arm motion in protoplanetary disks. I've found the spiral arms in the SAO 206462 system are activated by planet-driven, and there may be two planets driving the two spiral arms respectively, which is the first system detected to be so. Assuming the planets' orbits circular, we also predicted the locations of the two planets. This finding has been published in the ApJL and can be seen here. Now, we are considering planets' orbits to be eccentric, using simulations to find features of eccentric systems different from circular systems, and to find the motion of spirals connected to the eccentricity and phase of the companions' orbits.
+
+I also finished a project discussing the detectability of exoplanets in soft X-ray band.
+
+[Xiamen University]: https://astro.xmu.edu.cn
