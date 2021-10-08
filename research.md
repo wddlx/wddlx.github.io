@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title:  "My research projects"
 categories: jekyll update
 permalink: /research/
